@@ -23,5 +23,7 @@ class BookingServiceTest {
     void updateBooking() {
         booking.setCustomerTelephone(33333333);
         bookingService.updateBooking(booking);
+        
+        // test 2
     }
 }
