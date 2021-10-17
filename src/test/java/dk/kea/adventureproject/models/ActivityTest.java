@@ -23,5 +23,7 @@ public class ActivityTest {
         assertEquals("Sumo", activity.getActivityName());
         assertEquals(100, activity.getTimeLimit());
         assertEquals("Socks", activity.getDescription());
+        
+        // Jenkins test commit kommentar
     }
 }
