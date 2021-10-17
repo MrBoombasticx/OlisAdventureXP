@@ -22,5 +22,7 @@ class BookingTest {
         assertEquals(88888888, booking.getCustomerTelephone());
         assertEquals("1 Nov 2021", booking.getStartDate());
         assertEquals("2 Nov 2021", booking.getTimeStart());
+        
+        // Dette er en test
     }
 }
