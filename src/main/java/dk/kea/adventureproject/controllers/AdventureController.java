@@ -67,3 +67,5 @@ public class AdventureController {
         return "test.html";
     }
 }
+
+// Dette er en test for jenkins
